@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Implementation-Title: cas-server-support-gauth
+Implementation-Version: 5.3.10-SNAPSHOT
+Created-By: org.apereo.cas
+Specification-Version: 7e6dc4021f31a285dfb4bff3e9435d6e7ffe35cd
+Implementation-Vendor: org.apereo.cas
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.10">
+<file name="/Users/zelhaj01/cas_project/git/temp/cas/support/cas-server-support-gauth/src/main/java/org/apereo/cas/config/GoogleAuthenticatorConfiguration.java">
+</file>
+<file name="/Users/zelhaj01/cas_project/git/temp/cas/support/cas-server-support-gauth/src/main/java/org/apereo/cas/config/support/authentication/GoogleAuthenticatorAuthenticationEventExecutionPlanConfiguration.java">
+</file>
+<file name="/Users/zelhaj01/cas_project/git/temp/cas/support/cas-server-support-gauth/src/main/java/org/apereo/cas/config/support/authentication/GoogleAuthenticatorRestConfiguration.java">
+</file>
+</checkstyle>
